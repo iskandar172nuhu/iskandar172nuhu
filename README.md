@@ -10,13 +10,6 @@ I design and build secure, scalable cloud infrastructure and automation pipeline
 - Linux Administration & Networking
 - Monitoring & Reliability Engineering
 
-### 🚀 Featured Project
-**Production-Style AWS 3-Tier Platform**
-- Built using Terraform with modular architecture
-- Load balanced web tier with Auto Scaling
-- Secure private application layer
-- Remote state management & monitoring integration
-
 ### 🎯 Current Focus
 - Kubernetes production deployments  
 - Security scanning & DevSecOps practices  
