@@ -5,7 +5,7 @@ I design and build secure, scalable cloud infrastructure and automation pipeline
 ### 🔧 Core Skills
 - AWS Cloud (EC2, VPC, ALB, Auto Scaling, IAM)
 - Infrastructure as Code (Terraform)
-- CI/CD Pipelines (GitHub Actions / Jenkins)
+- CI/CD Pipelines (GitHub Actions)
 - Containers (Docker, Kubernetes)
 - Linux Administration & Networking
 - Monitoring & Reliability Engineering
