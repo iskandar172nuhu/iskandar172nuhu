@@ -62,7 +62,7 @@
 - Automated deployment using **GitHub Actions + Terraform**
 - Applied DevOps best practices (modular design, automation)
 
----
+----
 
 ## 🎯 Current Focus
 
